@@ -1,3 +1,2 @@
 # discord-bot
-ah
-there you go
+print("yoyo niga")
