@@ -34,4 +34,3 @@ async def ping(interaction: Interaction):
 async def ping(interaction: Interaction):
     await interaction.response.send_message("im in love with you")
 
-client.run("MTE1ODI4MTk0MTA4NzQ0MDk0Ng.GabXGJ.J6V4wFVnlqShGzxawKSFfnZfNbevhJmY0Lvkk0")
